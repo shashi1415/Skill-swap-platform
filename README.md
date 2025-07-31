@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-07-12 110750" src="https://github.com/user-attachments/assets/9adc2759-e73c-41dc-ac6b-b997ba37bc6e" />
+<img width="1902" height="929" alt="Screenshot 2025-07-12 174818" src="https://github.com/user-attachments/assets/e89cf752-924e-49bf-9883-17b9257c1812" />
 
 ## 📌 Skill Swap Platform
 
